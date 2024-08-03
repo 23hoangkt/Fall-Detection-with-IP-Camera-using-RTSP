@@ -14,5 +14,5 @@ kết nối với camera và lấy địa chỉ IP của camera
 
 # Sự kết hợp giữa 3 models Yolo-Tiny V3, PSSE, STGCN
 bạn có thể train lại mô hình yolov3-tiny và lấy 1 file weight mới 
-#phát hiện lửa nhỏ với camera IP với YoLoV8
-```python fire.py```
+# Phát hiện lửa nhỏ với camera IP với YoLoV8
+bộ dữ liệu lấy từ RoboFlow , train thông qua GG COLAB ```python fire.py```
