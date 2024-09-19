@@ -1,18 +1,9 @@
+# Tổng quan hệ thống
+
 <p align="center">
-  <b>FaceID bao gồm Face Recognition và Liveness Detection</b><br>
+  <b>Fall Detection</b><br>
   <img src="link_của_hình_ảnh_1" alt="Mô tả hình ảnh 1" width="400"/>
 </p>
-
-<p align="center">
-  <b>FaceID dựa trên FaceNet và MTCNN</b><br>
-  <img src="link_của_hình_ảnh_2" alt="Mô tả hình ảnh 2" width="400"/>
-</p>
-
-<p align="center">
-  <b>Liveness Detection dựa trên OpenCV và DeepLearning</b><br>
-  <img src="link_của_hình_ảnh_3" alt="Mô tả hình ảnh 3" width="400"/>
-</p>
-
 # Dowload Models tại 
 https://drive.google.com/drive/u/0/folders/1lrTI56k9QiIfMJhG9kzNjBzJh98KCIIO
 
