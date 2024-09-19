@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Fall Detection</b><br>
-  <img src="Screenshot 2024-09-20 002229.png" alt="Mô tả hình ảnh 1" width="400"/>
+  <img src="Screenshot 2024-09-20 001933.png" alt="Mô tả hình ảnh 1" width="400"/>
 </p>
 
 # Dowload Models tại 
@@ -20,5 +20,9 @@ kết nối với camera và lấy địa chỉ IP của camera
 
 # Sự kết hợp giữa 3 models Yolo-Tiny V3, PSSE, STGCN
 bạn có thể train lại mô hình yolov3-tiny và lấy 1 file weight mới 
+<p align="center">
+  <b>Fall Detection</b><br>
+  <img src="Screenshot 2024-09-20 001933.png" alt="Mô tả hình ảnh 1" width="400"/>
+</p>
 # Phát hiện lửa nhỏ với camera IP với YoLoV8
 bộ dữ liệu lấy từ RoboFlow , train thông qua GG COLAB ```python fire.py```
