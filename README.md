@@ -5,6 +5,10 @@
   <img src="Screenshot 2024-09-20 001933.png" alt="Mô tả hình ảnh 1" width="600"/>
 </p>
 
+# Khởi tạo môi trường Vituarl enviroment
+```python -m venv venv```
+# Kích hoạt môi trường
+
 # Dowload Models tại 
 https://drive.google.com/drive/u/0/folders/1lrTI56k9QiIfMJhG9kzNjBzJh98KCIIO
 
